@@ -1,7 +1,7 @@
 # Nashville-Housing
 The main objective of this SQL project is for data cleansing using Nashville's properties values between 2013 to 2019
 
-By applying all the code, the result goes from a table with ´NULL´ values, unformated columns and unnecessary information, to a table where it is easier for the user to collect all the information needed, gettind rid of duplicated values, and splitting stacked up columns where not all the information was provided.
+By applying all the code, the result goes from a table with ´NULL´ values, unformatted columns, and unnecessary information, to a table where it is easier for the user to collect all the information needed, getting rid of duplicated values, and splitting stacked up columns where not all the information was provided.
 
 To get the desired output, the SQL queries run in the following order
 
